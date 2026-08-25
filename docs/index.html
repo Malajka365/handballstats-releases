@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Handball Stats Pro</title>
+<style>
+  :root {
+    --bg: #f8fafc;
+    --card: #ffffff;
+    --text: #0f172a;
+    --muted: #64748b;
+    --line: #e2e8f0;
+    --accent: #2563eb;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #0f172a;
+      --card: #1e293b;
+      --text: #f1f5f9;
+      --muted: #94a3b8;
+      --line: #334155;
+      --accent: #60a5fa;
+    }
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font: 16px/1.65 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  }
+  .wrap { max-width: 720px; margin: 0 auto; padding: 3rem 1.25rem 4rem; }
+  header { display: flex; align-items: center; gap: .85rem; margin-bottom: 2rem; }
+  .logo {
+    width: 44px; height: 44px; border-radius: 12px; flex-shrink: 0;
+    background: linear-gradient(135deg, #3b82f6, #1d4ed8);
+    display: grid; place-items: center;
+  }
+  .logo svg { width: 24px; height: 24px; }
+  h1 { font-size: 1.5rem; margin: 0; letter-spacing: -.01em; }
+  .tagline { color: var(--muted); font-size: .9rem; margin: .15rem 0 0; }
+  h2 { font-size: 1.05rem; margin: 2.25rem 0 .6rem; }
+  p { margin: 0 0 1rem; }
+  ul { margin: 0 0 1rem; padding-left: 1.25rem; }
+  li { margin-bottom: .35rem; }
+  .card {
+    background: var(--card); border: 1px solid var(--line);
+    border-radius: 14px; padding: 1.25rem 1.4rem; margin: 1.5rem 0;
+  }
+  a { color: var(--accent); }
+  footer {
+    margin-top: 3rem; padding-top: 1.25rem; border-top: 1px solid var(--line);
+    color: var(--muted); font-size: .85rem;
+    display: flex; flex-wrap: wrap; gap: .75rem 1.25rem;
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <header>
+    <div class="logo">
+      <svg viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2.4"
+           stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+        <line x1="18" y1="20" x2="18" y2="10"></line>
+        <line x1="12" y1="20" x2="12" y2="4"></line>
+        <line x1="6" y1="20" x2="6" y2="14"></line>
+      </svg>
+    </div>
+    <div>
+      <h1>Handball Stats Pro</h1>
+      <p class="tagline">Kézilabda meccselemzés és statisztika</p>
+    </div>
+  </header>
+
+  <p>
+    A Handball Stats Pro egy asztali alkalmazás kézilabda-mérkőzések videó alapú
+    elemzésére. A felvétel mellett rögzíted az eseményeket &mdash; gólokat,
+    védéseket, kiállításokat, saját címkéket &mdash;, az alkalmazás pedig ebből
+    készít játékos- és csapatszintű statisztikákat.
+  </p>
+
+  <div class="card">
+    <h2 style="margin-top:0">Mit tud</h2>
+    <ul>
+      <li>Videó alapú eseményrögzítés, képkockára pontos időzítéssel</li>
+      <li>xG, xS, GSAA és PAR/HPAR mutatók</li>
+      <li>Kapu- és lövéshelyzet-hőtérképek</li>
+      <li>Egy kattintással visszajátszható klipek minden statisztikából</li>
+      <li>Saját címkék taktikai megfigyelésekhez</li>
+      <li>Nyomtatható és PDF-be menthető mérkőzésriportok</li>
+    </ul>
+  </div>
+
+  <h2>Kinek készült</h2>
+  <p>
+    Edzőknek, elemzőknek és stábtagoknak, akik a saját mérkőzéseiket dolgozzák
+    fel. Az alkalmazás zárt körben, meghívásos alapon érhető el.
+  </p>
+
+  <h2>Telepítés és frissítés</h2>
+  <p>
+    A telepítő a
+    <a href="https://github.com/Malajka365/handballstats-releases/releases/latest">legutóbbi kiadás</a>
+    oldaláról tölthető le. A telepített alkalmazás ezután magától észreveszi és
+    letölti az új verziókat &mdash; nem kell újratelepíteni.
+  </p>
+
+  <h2>Kapcsolat</h2>
+  <p>
+    Kérdés, hibajelzés:
+    <a href="mailto:balogh88david@gmail.com">balogh88david@gmail.com</a>
+  </p>
+
+  <footer>
+    <a href="privacy.html">Adatvédelmi tájékoztató</a>
+    <a href="https://github.com/Malajka365/handballstats-releases/releases">Kiadások</a>
+    <span>&copy; 2026 Balogh Dávid</span>
+  </footer>
+
+</div>
+</body>
+</html>
