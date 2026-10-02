@@ -1,4 +1,4 @@
 {
-  "minimumVersion": "1.37.0",
-  "message": "A „½ fault” (két védő közös szabálytalansága) miatt ez a frissítés kötelező: a régebbi verziók nem számolják helyesen a faultokat."
+  "minimumVersion": "1.39.0",
+  "message": "A játékidő-térkép miatt ez a frissítés kötelező: a régebbi verziók a térképes meccseken rossz meccsidőt írnának az eseményekhez."
 }
