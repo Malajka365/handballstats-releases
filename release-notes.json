@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "releases": [
+    {
+      "version": "1.45.0",
+      "date": "2026-10-14",
+      "items": [
+        {
+          "title": {
+            "hu": "Újdonságok ablak frissítés után",
+            "en": "What's new after an update",
+            "de": "Neuigkeiten nach einem Update",
+            "es": "Novedades tras una actualización"
+          },
+          "text": {
+            "hu": "Frissítés után az app megmutatja, mi változott, és egy gombbal a weboldalra visz, ahol minden újdonság olvasható.",
+            "en": "After an update the app shows what has changed, and a button takes you to the website where every change is listed.",
+            "de": "Nach einem Update zeigt die App, was sich geändert hat, und ein Button führt zur Website mit allen Neuerungen.",
+            "es": "Tras una actualización, la aplicación muestra qué ha cambiado y un botón te lleva a la web con todas las novedades."
+          }
+        }
+      ]
+    }
+  ]
+}
