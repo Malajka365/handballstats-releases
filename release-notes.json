@@ -2,6 +2,26 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.46.0",
+      "date": "2026-10-17",
+      "items": [
+        {
+          "title": {
+            "hu": "Pontosabb „Kapott lövések” térkép a csapatriportban",
+            "en": "More accurate “Shots conceded” map in the team report",
+            "de": "Genauere Karte „Gegnerische Würfe“ im Mannschaftsbericht",
+            "es": "Mapa de «Lanzamientos recibidos» más preciso en el informe del equipo"
+          },
+          "text": {
+            "hu": "A „Mind” nézet minden kapott lövést mutat, az üres kapuba lőtt gólokat, a mellé és a blokkolt lövéseket is. A kapus-gombok csak a kapusnak beszámított lövéseket mutatják, egy ⓘ jel elmagyarázza, mit látsz.",
+            "en": "The “All” view shows every shot conceded, including empty-net goals, misses and blocked shots. The goalkeeper buttons show only the shots credited to the goalkeeper, and an ⓘ icon explains what you see.",
+            "de": "Die Ansicht „Alle“ zeigt alle gegnerischen Würfe, auch Tore ins leere Tor, Fehlwürfe und geblockte Würfe. Die Torhüter-Schaltflächen zeigen nur die dem Torhüter angerechneten Würfe, ein ⓘ erklärt, was du siehst.",
+            "es": "La vista «Todos» muestra todos los lanzamientos recibidos, incluidos los goles a portería vacía, los fallos y los bloqueados. Los botones de portero muestran solo los lanzamientos atribuidos a cada uno, y un icono ⓘ explica lo que ves."
+          }
+        }
+      ]
+    },
+    {
       "version": "1.45.0",
       "date": "2026-10-14",
       "items": [
