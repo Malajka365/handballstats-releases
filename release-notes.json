@@ -2,6 +2,40 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.48.0",
+      "date": "2026-10-19",
+      "items": [
+        {
+          "title": {
+            "hu": "Kattintható lövéstérképek a riportokban",
+            "en": "Clickable shot maps in reports",
+            "de": "Anklickbare Wurfkarten in den Berichten",
+            "es": "Mapas de lanzamientos clicables en los informes"
+          },
+          "text": {
+            "hu": "A meccs- és a csapatriport lövés- és kapott-térképén kijelölhetsz egy vagy több zónát, a 7m-es, az üres kapus és a blokkolt dobozt is. A fejléc azonnal a kijelölés lövés/gól számát és százalékát mutatja, és a kapus-gombokkal együtt is működik.",
+            "en": "On the shot and conceded maps of the match and team reports you can select one or more zones, including the 7m, empty-net and blocked boxes. The header instantly shows the selection's shots/goals and percentage, and it works together with the goalkeeper buttons.",
+            "de": "Auf den Wurf- und Gegentor-Karten der Spiel- und Teamberichte kannst du eine oder mehrere Zonen auswählen, auch die Felder 7m, leeres Tor und geblockt. Die Kopfzeile zeigt sofort Würfe/Tore und Prozentsatz der Auswahl und funktioniert auch zusammen mit den Torhüter-Schaltflächen.",
+            "es": "En los mapas de lanzamientos y de goles recibidos de los informes de partido y de equipo puedes seleccionar una o varias zonas, incluidas las casillas de 7 m, portería vacía y bloqueados. La cabecera muestra al instante los lanzamientos/goles y el porcentaje de la selección, y funciona junto con los botones de portero."
+          }
+        },
+        {
+          "title": {
+            "hu": "Százalék a játékos-kártya kijelölésénél",
+            "en": "Percentage for a selection on the player card",
+            "de": "Prozentsatz bei einer Auswahl auf der Spielerkarte",
+            "es": "Porcentaje de la selección en la ficha del jugador"
+          },
+          "text": {
+            "hu": "A játékos lövéstérképén zónát kijelölve a fejléc a százalékot is mutatja, és mindenhol lövés/gól sorrendben ír, ahogy a többi térkép.",
+            "en": "When you select zones on a player's shot map, the header shows the percentage too, and it now uses the shots/goals order like every other map.",
+            "de": "Wählst du auf der Wurfkarte eines Spielers Zonen aus, zeigt die Kopfzeile auch den Prozentsatz und nutzt jetzt wie alle anderen Karten die Reihenfolge Würfe/Tore.",
+            "es": "Al seleccionar zonas en el mapa de lanzamientos de un jugador, la cabecera muestra también el porcentaje y ahora usa el orden lanzamientos/goles, como los demás mapas."
+          }
+        }
+      ]
+    },
+    {
       "version": "1.47.0",
       "date": "2026-10-19",
       "items": [
