@@ -2,6 +2,20 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.48.1",
+      "date": "2026-10-19",
+      "items": [
+        {
+          "title": {
+            "hu": "Szűrés közben a két egymás melletti lövéstérkép egy vonalban marad",
+            "en": "The two side-by-side shot maps stay aligned while you filter",
+            "de": "Die beiden nebeneinanderliegenden Wurfkarten bleiben beim Filtern auf einer Linie",
+            "es": "Los dos mapas de lanzamientos contiguos siguen alineados mientras filtras"
+          }
+        }
+      ]
+    },
+    {
       "version": "1.48.0",
       "date": "2026-10-19",
       "items": [
