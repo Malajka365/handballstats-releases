@@ -2,6 +2,26 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.46.1",
+      "date": "2026-10-19",
+      "items": [
+        {
+          "title": {
+            "hu": "Javítva: a gól utáni gyors, üres kapus gól nem tűnik el",
+            "en": "Fixed: a quick empty-net goal right after a goal no longer disappears",
+            "de": "Behoben: Ein schnelles Tor ins leere Tor direkt nach einem Tor verschwindet nicht mehr",
+            "es": "Corregido: un gol rápido a portería vacía justo después de otro gol ya no desaparece"
+          },
+          "text": {
+            "hu": "Ha a kapusát lehozó csapat egy kapott gól után pár másodpercen belül üres kapus gólt kapott, az a „Kapott lövések” térképről kimaradt. Most már beleszámít.",
+            "en": "If a team that had pulled its goalkeeper conceded an empty-net goal within a few seconds of another goal, it was missing from the “Shots conceded” map. It is counted now.",
+            "de": "Kassierte eine Mannschaft mit herausgenommenem Torhüter wenige Sekunden nach einem Gegentor ein Tor ins leere Tor, fehlte es in der Karte „Gegnerische Würfe“. Jetzt wird es mitgezählt.",
+            "es": "Si un equipo que había retirado a su portero encajaba un gol a portería vacía pocos segundos después de otro gol, faltaba en el mapa de «Lanzamientos recibidos». Ahora se cuenta."
+          }
+        }
+      ]
+    },
+    {
       "version": "1.46.0",
       "date": "2026-10-17",
       "items": [
