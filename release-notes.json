@@ -2,6 +2,26 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.47.0",
+      "date": "2026-10-19",
+      "items": [
+        {
+          "title": {
+            "hu": "Egyszer kell javítani: a gól és a kapus párja együtt módosul",
+            "en": "Edit once: a goal and its goalkeeper pair change together",
+            "de": "Nur einmal ändern: Tor und Torhüter-Gegenstück ändern sich gemeinsam",
+            "es": "Edita una sola vez: el gol y su pareja del portero cambian juntos"
+          },
+          "text": {
+            "hu": "Ha egy gólnál vagy védésnél utólag átírod a sarkot, a zónát, a lerohanást, a létszámot vagy az időt, a kapus párja is vele változik. A törlés mindkettőt törli, és előtte rákérdez.",
+            "en": "When you later change the corner, zone, fast break, line-up or time of a goal or save, the goalkeeper's paired entry changes with it. Deleting removes both, after asking first.",
+            "de": "Änderst du bei einem Tor oder einer Parade nachträglich Ecke, Zone, Tempogegenstoß, Aufstellung oder Zeit, ändert sich der Torhüter-Eintrag mit. Beim Löschen werden beide entfernt, nach einer Rückfrage.",
+            "es": "Si cambias después la esquina, la zona, el contraataque, la alineación o el tiempo de un gol o una parada, el registro del portero cambia con él. Al eliminar se borran ambos, previa confirmación."
+          }
+        }
+      ]
+    },
+    {
       "version": "1.46.1",
       "date": "2026-10-19",
       "items": [
