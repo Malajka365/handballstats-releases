@@ -2,6 +2,40 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.48.3",
+      "date": "2026-10-22",
+      "items": [
+        {
+          "title": {
+            "hu": "Megbízhatóbb klip-export",
+            "en": "More reliable clip export",
+            "de": "Zuverlässigerer Clip-Export",
+            "es": "Exportación de clips más fiable"
+          },
+          "text": {
+            "hu": "Ha egy vírusirtó vagy egy félbemaradt frissítés elviszi a felirat logóját, az export akkor sem áll le: a program a beépített másolatot használja.",
+            "en": "If an antivirus or an interrupted update removes the caption logo, the export no longer stops: the app uses its built-in copy.",
+            "de": "Wenn ein Virenscanner oder ein abgebrochenes Update das Logo der Einblendung entfernt, bricht der Export nicht mehr ab: Die App nutzt ihre eingebaute Kopie.",
+            "es": "Si un antivirus o una actualización interrumpida elimina el logotipo de los rótulos, la exportación ya no se detiene: la app usa su copia integrada."
+          }
+        },
+        {
+          "title": {
+            "hu": "Kisebb szöveg- és felületjavítások",
+            "en": "Smaller wording and interface fixes",
+            "de": "Kleinere Text- und Oberflächenkorrekturen",
+            "es": "Pequeñas correcciones de textos e interfaz"
+          },
+          "text": {
+            "hu": "Angolul, németül és spanyolul semleges példák a mezőkben, lefordított rövidítések a játékoskártya kapu-hőtérképén, és nincs többé piros helyesírási aláhúzás a csapat- és játékosneveken.",
+            "en": "Neutral examples in the fields in English, German and Spanish, translated abbreviations on the player card goal heatmap, and no more red spellcheck underline on team and player names.",
+            "de": "Neutrale Beispiele in den Feldern auf Englisch, Deutsch und Spanisch, übersetzte Kürzel in der Tor-Heatmap der Spielerkarte und keine rote Rechtschreib-Unterstreichung mehr bei Mannschafts- und Spielernamen.",
+            "es": "Ejemplos neutros en los campos en inglés, alemán y español, abreviaturas traducidas en el mapa de calor de la portería de la ficha de jugador y sin el subrayado rojo del corrector en los nombres de equipos y jugadores."
+          }
+        }
+      ]
+    },
+    {
       "version": "1.48.2",
       "date": "2026-10-22",
       "items": [
