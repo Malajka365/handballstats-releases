@@ -2,6 +2,26 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.48.2",
+      "date": "2026-10-22",
+      "items": [
+        {
+          "title": {
+            "hu": "A program szövegei mind a négy nyelven átnézve",
+            "en": "App wording reviewed in all four languages",
+            "de": "Texte der App in allen vier Sprachen überarbeitet",
+            "es": "Textos de la app revisados en los cuatro idiomas"
+          },
+          "text": {
+            "hu": "Egységes szakszavak, angolul, németül és spanyolul helyes többes szám, és lefordított hazai/vendég jelölés az emberelőny-kártyán.",
+            "en": "Consistent handball terms, correct plurals in English, German and Spanish, and translated home/away letters on the power-play card.",
+            "de": "Einheitliche Fachbegriffe, korrekte Pluralformen auf Englisch, Deutsch und Spanisch und übersetzte Heim/Gast-Kürzel auf der Über- und Unterzahl-Karte.",
+            "es": "Términos de balonmano coherentes, plurales correctos en inglés, alemán y español, y letras de local/visitante traducidas en la tarjeta de superioridad numérica."
+          }
+        }
+      ]
+    },
+    {
       "version": "1.48.1",
       "date": "2026-10-19",
       "items": [
