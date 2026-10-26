@@ -2,6 +2,26 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.49.0",
+      "date": "2026-10-26",
+      "items": [
+        {
+          "title": {
+            "hu": "Félidőnként is nézhető a meccsriport",
+            "en": "Match report by half",
+            "de": "Spielbericht auch pro Halbzeit",
+            "es": "Acta del partido también por partes"
+          },
+          "text": {
+            "hu": "A Jegyzőkönyv és a Játékoskártya fül tetején választható: Teljes meccs, 1. félidő vagy 2. félidő. Ilyenkor az összesítő, a játékosok statisztikái és a lejátszott klipek is csak a kiválasztott félidőből jönnek.",
+            "en": "Choose Full match, 1st half or 2nd half at the top of the Match report and Player card tabs. The summary, the player stats and the clips you play then come only from the selected half.",
+            "de": "Oben auf den Reitern Spielbericht und Spielerkarte wählbar: Ganzes Spiel, 1. Halbzeit oder 2. Halbzeit. Übersicht, Spielerstatistiken und abgespielte Clips stammen dann nur aus der gewählten Halbzeit.",
+            "es": "Elige Partido completo, 1.ª parte o 2.ª parte en la parte superior de las pestañas Acta y Ficha de jugador. El resumen, las estadísticas de los jugadores y los clips que reproduzcas proceden entonces solo de la parte elegida."
+          }
+        }
+      ]
+    },
+    {
       "version": "1.48.3",
       "date": "2026-10-22",
       "items": [
