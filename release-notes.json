@@ -2,6 +2,26 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.50.0",
+      "date": "2026-10-28",
+      "items": [
+        {
+          "title": {
+            "hu": "Új: több kimerevítés egy klipen",
+            "en": "New: multiple freezes in one clip",
+            "de": "Neu: mehrere Standbilder in einem Clip",
+            "es": "Nuevo: varias imágenes fijas en un clip"
+          },
+          "text": {
+            "hu": "Egy klipre legfeljebb 10 kimerevítést rajzolhatsz, mindegyikre külön rajzot. Az eszköztár gombjaival válthatsz köztük, és az exportált videóban mind megjelenik.",
+            "en": "You can draw up to 10 freezes on a clip, each with its own drawing. Switch between them with the toolbar buttons — all of them appear in the exported video.",
+            "de": "Du kannst bis zu 10 Standbilder pro Clip zeichnen, jedes mit eigener Zeichnung. Mit den Schaltflächen der Werkzeugleiste wechselst du zwischen ihnen — im exportierten Video erscheinen alle.",
+            "es": "Puedes dibujar hasta 10 imágenes fijas en un clip, cada una con su propio dibujo. Cambia entre ellas con los botones de la barra de herramientas: todas aparecen en el vídeo exportado."
+          }
+        }
+      ]
+    },
+    {
       "version": "1.49.0",
       "date": "2026-10-26",
       "items": [
