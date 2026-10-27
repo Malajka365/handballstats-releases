@@ -1,4 +1,4 @@
 {
-  "minimumVersion": "1.39.0",
-  "message": "A játékidő-térkép miatt ez a frissítés kötelező: a régebbi verziók a térképes meccseken rossz meccsidőt írnának az eseményekhez."
+  "minimumVersion": "1.50.0",
+  "message": "Ez a frissítés kötelező a rajzok helyes mentéséhez."
 }
