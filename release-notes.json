@@ -2,6 +2,62 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.51.0",
+      "date": "2026-10-29",
+      "items": [
+        {
+          "title": {
+            "hu": "Hőtérkép a lövés- és kapott-térképeken",
+            "en": "Heat map on the shot and conceded maps",
+            "de": "Heatmap auf den Wurf- und Gegentor-Karten",
+            "es": "Mapa de calor en los mapas de lanzamientos y goles encajados"
+          },
+          "text": {
+            "hu": "Egy kattintással színezheted a pályát a lövések száma vagy a zónánkénti hatékonyság szerint, a meccs- és a csapatriportban is.",
+            "en": "With one click you can color the court by shot volume or by efficiency per zone, in both the match and the team report.",
+            "de": "Mit einem Klick färbst du das Spielfeld nach Wurfanzahl oder nach Effizienz pro Zone – im Spiel- und im Teambericht.",
+            "es": "Con un clic puedes colorear la pista según el número de lanzamientos o la eficacia por zona, en el informe de partido y en el de equipo."
+          }
+        },
+        {
+          "title": {
+            "hu": "Pontosabb „+/-” érték a statisztikákban",
+            "en": "More accurate “+/-” value in the stats",
+            "de": "Genauerer „+/-“-Wert in den Statistiken",
+            "es": "Valor «+/-» más preciso en las estadísticas"
+          },
+          "text": {
+            "hu": "A lövéshatékonyság eddig kétszer számított bele, most a GSAA és a lövésen kívüli akciók összege. A „+/-/60” oszlop addig üres, amíg nincs rögzített játékidő.",
+            "en": "Shooting efficiency used to be counted twice; it is now GSAA plus the actions beyond shooting. The “+/-/60” column stays empty until playing time is recorded.",
+            "de": "Die Wurfeffizienz wurde bisher doppelt gezählt; jetzt ist es GSAA plus die Aktionen abseits des Wurfs. Die Spalte „+/-/60“ bleibt leer, bis Spielzeit erfasst wird.",
+            "es": "La eficacia de lanzamiento se contaba dos veces; ahora es el GSAA más las acciones sin lanzamiento. La columna «+/-/60» queda vacía hasta que se registre el tiempo de juego."
+          }
+        },
+        {
+          "title": {
+            "hu": "Új „Akciók” oszlop",
+            "en": "New “Actions” column",
+            "de": "Neue Spalte „Aktionen“",
+            "es": "Nueva columna «Acciones»"
+          },
+          "text": {
+            "hu": "A lövésen kívüli teljesítmény (gólpassz, labdaszerzés, blokk, eladott labda, kiállítás…) külön is látható. A korábbi PAR név megszűnt.",
+            "en": "Performance beyond shooting (assists, steals, blocks, turnovers, suspensions…) is now shown on its own. The former PAR name is gone.",
+            "de": "Die Leistung abseits des Wurfs (Torvorlagen, Ballgewinne, Blocks, Ballverluste, Zeitstrafen …) ist jetzt separat sichtbar. Der frühere Name PAR entfällt.",
+            "es": "El rendimiento sin lanzamiento (asistencias, recuperaciones, blocajes, pérdidas, exclusiones…) se ve por separado. El antiguo nombre PAR desaparece."
+          }
+        },
+        {
+          "title": {
+            "hu": "Frissített app-motor biztonsági javításokkal",
+            "en": "Updated app engine with security fixes",
+            "de": "Aktualisierter App-Kern mit Sicherheitskorrekturen",
+            "es": "Motor de la app actualizado con correcciones de seguridad"
+          }
+        }
+      ]
+    },
+    {
       "version": "1.50.0",
       "date": "2026-10-28",
       "items": [
