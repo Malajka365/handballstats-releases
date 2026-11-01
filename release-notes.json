@@ -2,6 +2,34 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.53.1",
+      "date": "2026-11-01",
+      "items": [
+        {
+          "title": {
+            "hu": "Frissített app-motor (Electron 44) biztonsági javításokkal",
+            "en": "Updated app engine (Electron 44) with security fixes",
+            "de": "Aktualisierter App-Kern (Electron 44) mit Sicherheitskorrekturen",
+            "es": "Motor de la app actualizado (Electron 44) con correcciones de seguridad"
+          }
+        },
+        {
+          "title": {
+            "hu": "A mentés- és mappaválasztó ablakok megjegyzik az utoljára használt mappát",
+            "en": "Save and folder dialogs remember the last folder you used",
+            "de": "Speicher- und Ordnerdialoge merken sich den zuletzt verwendeten Ordner",
+            "es": "Los diálogos de guardado y de carpeta recuerdan la última carpeta usada"
+          },
+          "text": {
+            "hu": "Klipexportnál, videótár-választásnál és HTML-riport mentésénél is.",
+            "en": "For clip export, choosing the video library and saving HTML reports.",
+            "de": "Beim Clip-Export, bei der Wahl der Videobibliothek und beim Speichern von HTML-Berichten.",
+            "es": "Al exportar clips, elegir la videoteca y guardar informes HTML."
+          }
+        }
+      ]
+    },
+    {
       "version": "1.53.0",
       "date": "2026-11-01",
       "items": [
