@@ -2,6 +2,54 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.53.0",
+      "date": "2026-11-01",
+      "items": [
+        {
+          "title": {
+            "hu": "Új, ikonos gombsor a játékos-akció ablakban",
+            "en": "New icon buttons in the player action window",
+            "de": "Neue Symbol-Schaltflächen im Spieleraktions-Fenster",
+            "es": "Nuevos botones con iconos en la ventana de acciones del jugador"
+          },
+          "text": {
+            "hu": "Minden akció ikont kapott, a gombok csoportokba rendeződtek (Lövés, Támadás, Védekezés, Büntetések), és a feliratok rövidítés nélkül, teljes szóval szerepelnek.",
+            "en": "Every action now has an icon, the buttons are grouped (Shots, Attack, Defense, Sanctions), and the labels are written out in full.",
+            "de": "Jede Aktion hat jetzt ein Symbol, die Schaltflächen sind gruppiert (Würfe, Angriff, Abwehr, Strafen) und die Beschriftungen sind ausgeschrieben.",
+            "es": "Cada acción tiene ahora un icono, los botones están agrupados (Lanzamientos, Ataque, Defensa, Sanciones) y las etiquetas aparecen completas, sin abreviaturas."
+          }
+        },
+        {
+          "title": {
+            "hu": "A kapus-gombok csak kapus kiválasztásakor jelennek meg",
+            "en": "Goalkeeper buttons only appear when a goalkeeper is selected",
+            "de": "Torwart-Schaltflächen erscheinen nur, wenn ein Torwart ausgewählt ist",
+            "es": "Los botones de portero solo aparecen al seleccionar un portero"
+          },
+          "text": {
+            "hu": "Mezőnyjátékosnál a Védés, a Kapott gól és a Mellé / kapufa gomb nem látszik; kapusnál viszont legfelül állnak.",
+            "en": "For field players the Save, Goal conceded and Wide / post buttons are hidden; for goalkeepers they sit at the top.",
+            "de": "Bei Feldspielern sind Parade, Gegentor und Vorbei / Pfosten ausgeblendet; bei Torhütern stehen sie ganz oben.",
+            "es": "Para los jugadores de campo se ocultan Parada, Gol encajado y Fuera / poste; para los porteros aparecen arriba."
+          }
+        },
+        {
+          "title": {
+            "hu": "A gombokon a saját beállított gyorsbillentyűd látszik",
+            "en": "Buttons show your own keyboard shortcuts",
+            "de": "Die Schaltflächen zeigen deine eigenen Tastenkürzel",
+            "es": "Los botones muestran tus propios atajos de teclado"
+          },
+          "text": {
+            "hu": "Ha átállítottad a billentyűket, a gomb sarkában már az új billentyű jelenik meg.",
+            "en": "If you changed a shortcut, the button corner now shows the new key.",
+            "de": "Wenn du ein Tastenkürzel geändert hast, zeigt die Ecke der Schaltfläche jetzt die neue Taste.",
+            "es": "Si cambiaste un atajo, la esquina del botón muestra ahora la nueva tecla."
+          }
+        }
+      ]
+    },
+    {
       "version": "1.52.0",
       "date": "2026-11-01",
       "items": [
