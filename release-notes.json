@@ -2,6 +2,40 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.52.0",
+      "date": "2026-11-01",
+      "items": [
+        {
+          "title": {
+            "hu": "Események szerkesztése közvetlenül a riport klip-lejátszójából",
+            "en": "Edit events right from the report clip player",
+            "de": "Ereignisse direkt im Clip-Player des Berichts bearbeiten",
+            "es": "Edita eventos directamente desde el reproductor de clips del informe"
+          },
+          "text": {
+            "hu": "A klip-lejátszó új „Szerkesztés” gombja ugyanazt a szerkesztőt nyitja meg, mint az annotáció. Mentés után a riport számai és a klip-lista azonnal frissülnek — így például egy rossz kapusnak írt kapott gól egy kattintással átírható.",
+            "en": "The clip player's new “Edit” button opens the same editor as annotation. After saving, the report numbers and the clip list update right away — so a conceded goal credited to the wrong goalkeeper can be fixed with one click.",
+            "de": "Die neue Schaltfläche „Bearbeiten“ im Clip-Player öffnet denselben Editor wie die Annotation. Nach dem Speichern werden die Zahlen im Bericht und die Clip-Liste sofort aktualisiert – so lässt sich etwa ein Gegentor, das dem falschen Torwart zugeordnet wurde, mit einem Klick korrigieren.",
+            "es": "El nuevo botón «Editar» del reproductor de clips abre el mismo editor que la anotación. Al guardar, las cifras del informe y la lista de clips se actualizan al instante; así, por ejemplo, un gol encajado asignado al portero equivocado se corrige con un clic."
+          }
+        },
+        {
+          "title": {
+            "hu": "Javítás: rajzolás vagy kalibrálás közben a kimerevített videó már nem indul el magától",
+            "en": "Fix: a frozen video no longer starts by itself while drawing or calibrating",
+            "de": "Korrektur: Standbild-Video startet beim Zeichnen oder Kalibrieren nicht mehr von selbst",
+            "es": "Corrección: un vídeo congelado ya no se reanuda solo al dibujar o calibrar"
+          },
+          "text": {
+            "hu": "Ha egy rajzos klip kimerevítésénél nyitottad meg a Rajzot vagy a Kalibrációt, a videó a kimerevítés végén elindult a panel alatt. Ez megszűnt.",
+            "en": "If you opened Draw or Calibration during a drawing freeze, the video started playing under the panel when the freeze ended. That no longer happens.",
+            "de": "Wenn du während eines Standbilds mit Zeichnung „Zeichnen“ oder „Kalibrierung“ geöffnet hast, lief das Video nach dem Standbild unter dem Panel weiter. Das passiert nicht mehr.",
+            "es": "Si abrías Dibujo o Calibración durante una congelación con dibujo, el vídeo se reanudaba bajo el panel al terminar la congelación. Ya no ocurre."
+          }
+        }
+      ]
+    },
+    {
       "version": "1.51.0",
       "date": "2026-10-29",
       "items": [
