@@ -2,6 +2,26 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.53.4",
+      "date": "2026-11-02",
+      "items": [
+        {
+          "title": {
+            "hu": "Biztonsági megerősítések",
+            "en": "Security hardening",
+            "de": "Sicherheitsverbesserungen",
+            "es": "Refuerzos de seguridad"
+          },
+          "text": {
+            "hu": "Az app ablaka csak a saját oldalait nyithatja meg, és nem kérhet hozzáférést kamerához, mikrofonhoz vagy helyadathoz. Frissültek a belső összetevők is.",
+            "en": "The app window can only open its own pages and cannot request access to the camera, microphone or location. Internal components were updated as well.",
+            "de": "Das App-Fenster kann nur seine eigenen Seiten öffnen und keinen Zugriff auf Kamera, Mikrofon oder Standort anfordern. Auch interne Komponenten wurden aktualisiert.",
+            "es": "La ventana de la app solo puede abrir sus propias páginas y no puede pedir acceso a la cámara, el micrófono ni la ubicación. También se actualizaron componentes internos."
+          }
+        }
+      ]
+    },
+    {
       "version": "1.53.3",
       "date": "2026-11-02",
       "items": [
