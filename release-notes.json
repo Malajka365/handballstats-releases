@@ -2,6 +2,48 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.53.2",
+      "date": "2026-11-02",
+      "items": [
+        {
+          "title": {
+            "hu": "Megbízhatóbb mentés a rögzítésben",
+            "en": "More reliable saving while annotating",
+            "de": "Zuverlässigeres Speichern bei der Erfassung",
+            "es": "Guardado más fiable durante el registro"
+          },
+          "text": {
+            "hu": "Ha egy törlés vagy a „2. félidő innen” nem mentődik el (például mert közben más vette át a meccset), az app szól, és nem mutat hamis állapotot.",
+            "en": "If a delete or “2nd half from here” is not saved (for example because someone else took over the match), the app tells you and does not show a false state.",
+            "de": "Wenn ein Löschen oder „2. Halbzeit ab hier“ nicht gespeichert wird (z. B. weil jemand anderes das Spiel übernommen hat), meldet die App das und zeigt keinen falschen Stand.",
+            "es": "Si un borrado o «2.ª parte desde aquí» no se guarda (por ejemplo, porque otra persona tomó el partido), la app lo avisa y no muestra un estado falso."
+          }
+        },
+        {
+          "title": {
+            "hu": "A klip-export megszakításakor vagy hibájánál a korábbi fájl megmarad",
+            "en": "Cancelling or failing a clip export keeps the earlier file",
+            "de": "Beim Abbruch oder Fehler eines Clip-Exports bleibt die frühere Datei erhalten",
+            "es": "Si se cancela o falla una exportación de clips, se conserva el archivo anterior"
+          }
+        },
+        {
+          "title": {
+            "hu": "Ugyanaz az MKSZ-jegyzőkönyv nem importálható kétszer",
+            "en": "The same MKSZ match sheet can no longer be imported twice",
+            "de": "Derselbe MKSZ-Spielbericht kann nicht mehr doppelt importiert werden",
+            "es": "La misma acta de la MKSZ ya no se puede importar dos veces"
+          },
+          "text": {
+            "hu": "Az import a kézzel felvett játékost a teljes nevével is felismeri, így nem jön létre dupla játékos.",
+            "en": "The import also recognizes a manually added player by their full name, so no duplicate player is created.",
+            "de": "Der Import erkennt manuell angelegte Spieler auch am vollständigen Namen, sodass keine doppelten Spieler entstehen.",
+            "es": "La importación también reconoce a un jugador añadido a mano por su nombre completo, así que no se crea un jugador duplicado."
+          }
+        }
+      ]
+    },
+    {
       "version": "1.53.1",
       "date": "2026-11-01",
       "items": [
