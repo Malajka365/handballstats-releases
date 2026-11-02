@@ -2,6 +2,54 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.53.3",
+      "date": "2026-11-02",
+      "items": [
+        {
+          "title": {
+            "hu": "Gyorsabban betöltődik a csapatriport",
+            "en": "The team report loads faster",
+            "de": "Der Mannschaftsbericht lädt schneller",
+            "es": "El informe de equipo carga más rápido"
+          },
+          "text": {
+            "hu": "Az app a nagy adatmennyiséget egyszerre több részben tölti le, így lassú hálózaton is jóval kevesebbet kell várni.",
+            "en": "The app now downloads large amounts of data in several parts at once, so there is much less waiting even on a slow connection.",
+            "de": "Die App lädt große Datenmengen jetzt in mehreren Teilen gleichzeitig, sodass man auch bei langsamer Verbindung deutlich kürzer wartet.",
+            "es": "La app descarga ahora los datos grandes en varias partes a la vez, así que se espera mucho menos incluso con una conexión lenta."
+          }
+        },
+        {
+          "title": {
+            "hu": "A megosztott riportfájlban nincsenek belső azonosítók",
+            "en": "Shared report files no longer contain internal IDs",
+            "de": "Geteilte Berichtsdateien enthalten keine internen Kennungen mehr",
+            "es": "Los archivos de informe compartidos ya no contienen identificadores internos"
+          },
+          "text": {
+            "hu": "A kiküldött HTML-fájl csak a riporthoz szükséges adatokat tartalmazza, a fiókod belső azonosítóit nem.",
+            "en": "The HTML file you send contains only the data the report needs, not your account's internal IDs.",
+            "de": "Die versendete HTML-Datei enthält nur die für den Bericht nötigen Daten, nicht die internen Kennungen deines Kontos.",
+            "es": "El archivo HTML que envías contiene solo los datos que necesita el informe, no los identificadores internos de tu cuenta."
+          }
+        },
+        {
+          "title": {
+            "hu": "Apró javítások a riportokban és az MKSZ-importban",
+            "en": "Small fixes in reports and the MKSZ import",
+            "de": "Kleine Korrekturen bei Berichten und beim MKSZ-Import",
+            "es": "Pequeñas correcciones en los informes y la importación de la MKSZ"
+          },
+          "text": {
+            "hu": "A csapatriport mérlege a rögzített gólokból számol, mint a meccsriport. Betöltés közben a Riportok oldal nem írja, hogy nincs mérkőzés, és az import előnézete pontosan mutatja, jön-e létre új csapat.",
+            "en": "The team report record is counted from the recorded goals, like the match report. While loading, the Reports page no longer says there are no matches, and the import preview shows exactly whether a new team is created.",
+            "de": "Die Bilanz im Mannschaftsbericht wird wie im Spielbericht aus den erfassten Toren berechnet. Beim Laden meldet die Berichtsseite nicht mehr, dass es keine Spiele gibt, und die Importvorschau zeigt genau, ob eine neue Mannschaft angelegt wird.",
+            "es": "El balance del informe de equipo se calcula con los goles registrados, como en el informe del partido. Mientras carga, la página de Informes ya no dice que no hay partidos, y la vista previa de la importación muestra exactamente si se crea un equipo nuevo."
+          }
+        }
+      ]
+    },
+    {
       "version": "1.53.2",
       "date": "2026-11-02",
       "items": [
