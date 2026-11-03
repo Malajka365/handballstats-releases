@@ -2,6 +2,26 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.53.5",
+      "date": "2026-11-03",
+      "items": [
+        {
+          "title": {
+            "hu": "Erősebb védelem a belépési adatoknak",
+            "en": "Stronger protection for your sign-in data",
+            "de": "Stärkerer Schutz für deine Anmeldedaten",
+            "es": "Más protección para tus datos de inicio de sesión"
+          },
+          "text": {
+            "hu": "Az app mostantól csak a saját szervereihez kapcsolódhat, így egy esetleges hiba sem tudná a belépési adataidat idegen helyre küldeni.",
+            "en": "The app can now connect only to its own servers, so even a possible bug could not send your sign-in data anywhere else.",
+            "de": "Die App kann sich jetzt nur noch mit ihren eigenen Servern verbinden, sodass selbst ein möglicher Fehler deine Anmeldedaten nicht an andere Stellen senden könnte.",
+            "es": "La app ahora solo puede conectarse a sus propios servidores, así que ni siquiera un posible error podría enviar tus datos de inicio de sesión a otro lugar."
+          }
+        }
+      ]
+    },
+    {
       "version": "1.53.4",
       "date": "2026-11-02",
       "items": [
