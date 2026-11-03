@@ -2,6 +2,54 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.54.0",
+      "date": "2026-11-03",
+      "items": [
+        {
+          "title": {
+            "hu": "Egycsapatos elemzés: az ellenfél eladott labdája és mellé lövése egy kattintással",
+            "en": "Single-team analysis: opponent turnovers and wide shots in one click",
+            "de": "Einzelteam-Analyse: Ballverluste und Fehlwürfe des Gegners mit einem Klick",
+            "es": "Análisis de un solo equipo: pérdidas y lanzamientos fuera del rival con un clic"
+          },
+          "text": {
+            "hu": "Az „Ellenfél támadása” sorban két új gomb van. Az eladott labda az ellenfél labdavesztéseihez számít, a mellé lövés a saját kapusod statisztikájába kerül.",
+            "en": "The \"Opponent attack\" row has two new buttons. A turnover counts toward the opponent's lost balls, and a wide shot goes into your own goalkeeper's stats.",
+            "de": "In der Zeile „Angriff Gegner“ gibt es zwei neue Schaltflächen. Ein Ballverlust zählt zu den Ballverlusten des Gegners, ein Fehlwurf geht in die Statistik deines eigenen Torwarts ein.",
+            "es": "La fila «Ataque rival» tiene dos botones nuevos. La pérdida cuenta en los balones perdidos del rival y el lanzamiento fuera pasa a las estadísticas de tu propio portero."
+          }
+        },
+        {
+          "title": {
+            "hu": "Két csapat elemzésekor blokknál az app megkérdezi, ki lőtt, illetve ki blokkolt",
+            "en": "Two-team analysis: on a block the app asks who took the shot or who blocked it",
+            "de": "Zwei-Team-Analyse: Beim Block fragt die App, wer geworfen bzw. wer geblockt hat",
+            "es": "Análisis de dos equipos: en un bloqueo la app pregunta quién lanzó o quién bloqueó"
+          },
+          "text": {
+            "hu": "Blokk után a „Ki lőtte?”, blokkolt lövés után a „Ki blokkolt?” kérdés jön. A két bejegyzés egy lövésnek számít.",
+            "en": "After a block comes \"Who took the shot?\", after a blocked shot \"Who blocked it?\". The two entries count as one shot.",
+            "de": "Nach einem Block kommt „Wer hat geworfen?“, nach einem geblockten Wurf „Wer hat geblockt?“. Die beiden Einträge zählen als ein Wurf.",
+            "es": "Tras un bloqueo aparece «¿Quién ha lanzado?» y tras un lanzamiento bloqueado «¿Quién ha bloqueado?». Las dos entradas cuentan como un solo lanzamiento."
+          }
+        },
+        {
+          "title": {
+            "hu": "A kiállított játékos gombja halványabb, amíg tart a 2 perc",
+            "en": "A suspended player's button is dimmed while the 2 minutes run",
+            "de": "Die Schaltfläche eines zeitbestraften Spielers ist blasser, solange die 2 Minuten laufen",
+            "es": "El botón del jugador excluido aparece atenuado mientras duran los 2 minutos"
+          },
+          "text": {
+            "hu": "A lejátszó alatti sávban szaggatott borostyánszínű keret és homokóra jelzi. Ha letelik a büntetés, magától visszaáll.",
+            "en": "In the bar below the player it gets a dashed amber outline and an hourglass. When the suspension ends, it returns to normal by itself.",
+            "de": "In der Leiste unter dem Player zeigen das ein gestrichelter bernsteinfarbener Rahmen und eine Sanduhr. Ist die Strafe abgelaufen, wird sie von selbst wieder normal.",
+            "es": "En la barra bajo el reproductor lo indican un borde ámbar discontinuo y un reloj de arena. Cuando termina la exclusión, vuelve a la normalidad por sí solo."
+          }
+        }
+      ]
+    },
+    {
       "version": "1.53.6",
       "date": "2026-11-03",
       "items": [
