@@ -2,6 +2,40 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.53.6",
+      "date": "2026-11-03",
+      "items": [
+        {
+          "title": {
+            "hu": "Megbízhatóbb mentés a beállításokban",
+            "en": "More reliable saving in Settings",
+            "de": "Zuverlässigeres Speichern in den Einstellungen",
+            "es": "Guardado más fiable en Ajustes"
+          },
+          "text": {
+            "hu": "Ha egy szezon, bajnokság vagy címke módosítása nem ment át a szerveren (például lejárt előfizetés miatt), az app ezt most jelzi, és nem mutat hamis változást.",
+            "en": "If a change to a season, competition or tag doesn't go through on the server (for example because of an expired subscription), the app now tells you and doesn't show a change that didn't happen.",
+            "de": "Wenn eine Änderung an einer Saison, einem Wettbewerb oder einem Tag auf dem Server nicht übernommen wird (zum Beispiel wegen eines abgelaufenen Abos), zeigt die App das jetzt an und keine Änderung, die nicht stattgefunden hat.",
+            "es": "Si un cambio en una temporada, competición o etiqueta no se aplica en el servidor (por ejemplo, por una suscripción caducada), la app ahora te lo indica y no muestra un cambio que no se ha producido."
+          }
+        },
+        {
+          "title": {
+            "hu": "Apró javítások",
+            "en": "Small fixes",
+            "de": "Kleine Korrekturen",
+            "es": "Pequeñas correcciones"
+          },
+          "text": {
+            "hu": "Fiókváltás után mindig az aktuális fiók előfizetési állapota látszik, és az eseménynapló sorai billentyűzettel is kezelhetők.",
+            "en": "After switching accounts, the current account's subscription status is always shown, and the event log rows can also be used with the keyboard.",
+            "de": "Nach einem Kontowechsel wird immer der Abo-Status des aktuellen Kontos angezeigt, und die Zeilen des Ereignisprotokolls lassen sich auch mit der Tastatur bedienen.",
+            "es": "Al cambiar de cuenta siempre se muestra el estado de suscripción de la cuenta actual, y las filas del registro de eventos también se pueden usar con el teclado."
+          }
+        }
+      ]
+    },
+    {
       "version": "1.53.5",
       "date": "2026-11-03",
       "items": [
