@@ -2,6 +2,26 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.55.0",
+      "date": "2026-11-04",
+      "items": [
+        {
+          "title": {
+            "hu": "Kapusoknál is látszik a gól, a gólpassz és a kulcspassz",
+            "en": "Goalkeepers now show goals, assists, and key passes",
+            "de": "Tore, Assists und Schlüsselpässe jetzt auch bei Torwarten",
+            "es": "Goles, asistencias y pases clave también en los porteros"
+          },
+          "text": {
+            "hu": "A riportok kapus-táblájában három új oszlop mutatja a kapus saját gólját és passzait. A számokra kattintva lejátszhatók a klipek, az Oszlopok gombbal pedig elrejthetők.",
+            "en": "Three new columns in the goalkeeper table of your reports show a keeper's own goals and passes. Click a number to play the clips, or hide the columns with the Columns button.",
+            "de": "Drei neue Spalten in der Torwart-Tabelle der Berichte zeigen die eigenen Tore und Pässe des Torwarts. Ein Klick auf eine Zahl spielt die Clips ab, mit der Schaltfläche „Spalten“ lassen sie sich ausblenden.",
+            "es": "Tres columnas nuevas en la tabla de porteros de los informes muestran los goles y pases del propio portero. Haz clic en un número para reproducir los clips, u oculta las columnas con el botón Columnas."
+          }
+        }
+      ]
+    },
+    {
       "version": "1.54.0",
       "date": "2026-11-03",
       "items": [
