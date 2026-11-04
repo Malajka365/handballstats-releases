@@ -2,6 +2,26 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.55.1",
+      "date": "2026-11-04",
+      "items": [
+        {
+          "title": {
+            "hu": "A kapus-tábla most már görgetés nélkül kifér",
+            "en": "The goalkeeper table now fits without scrolling",
+            "de": "Die Torwart-Tabelle passt jetzt ohne Scrollen auf den Bildschirm",
+            "es": "La tabla de porteros ahora cabe sin desplazarse"
+          },
+          "text": {
+            "hu": "Az oszlopok között kisebb lett a távolság, így teljes képernyőn mind látszódik, oldalra görgetés nélkül.",
+            "en": "The columns now sit closer together, so in full screen you can see them all without scrolling sideways.",
+            "de": "Die Spalten stehen jetzt enger beieinander, sodass im Vollbild alle ohne seitliches Scrollen sichtbar sind.",
+            "es": "Las columnas ahora están más juntas, así que a pantalla completa se ven todas sin desplazarse hacia los lados."
+          }
+        }
+      ]
+    },
+    {
       "version": "1.55.0",
       "date": "2026-11-04",
       "items": [
