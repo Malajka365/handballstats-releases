@@ -2,6 +2,26 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.57.0",
+      "date": "2026-11-09",
+      "items": [
+        {
+          "title": {
+            "hu": "Csapatösszesítő: a gyorsindításos és a lerohanásos gól csak a saját sorában számít",
+            "en": "Team summary: fast-break and second-wave goals now count only in their own row",
+            "de": "Teamübersicht: Tore aus Tempogegenstoß und 2. Welle zählen nur in ihrer eigenen Zeile",
+            "es": "Resumen del equipo: los goles de contraataque y segunda oleada van solo en su propia fila"
+          },
+          "text": {
+            "hu": "Ha a gyorsindítás vagy a lerohanás mellé területet is jelöltél, a gól eddig a terület sorában (pl. 6 m) is megjelent. Most minden gól egyetlen sorba kerül, így a sorok összege kiadja a gólok számát. Új sor is van: Gólok lerohanásból.",
+            "en": "If you also marked an area for a fast break or second wave, the goal used to appear in that area's row too (e.g. 6m). Now every goal lands in exactly one row, so the rows add up to the total goals. There is also a new row: Second-wave goals.",
+            "de": "Wenn du bei einem Tempogegenstoß oder einer 2. Welle auch einen Bereich markiert hast, erschien das Tor bisher zusätzlich in dessen Zeile (z. B. 6m). Jetzt landet jedes Tor in genau einer Zeile, die Zeilen ergeben also die Gesamtzahl der Tore. Neu ist auch die Zeile „Tore aus der 2. Welle“.",
+            "es": "Si además marcaste una zona en un contraataque o una segunda oleada, el gol aparecía también en la fila de esa zona (p. ej. 6m). Ahora cada gol va a una sola fila, así que las filas suman el total de goles. También hay una fila nueva: Goles en segunda oleada."
+          }
+        }
+      ]
+    },
+    {
       "version": "1.56.0",
       "date": "2026-11-06",
       "items": [
