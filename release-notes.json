@@ -2,6 +2,76 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.58.0",
+      "date": "2026-11-11",
+      "items": [
+        {
+          "title": {
+            "hu": "Videóvágás a rögzítőben: I = kezdet, O = vég",
+            "en": "Video cutting in the recorder: I = start, O = end",
+            "de": "Videoschnitt im Erfassungsbildschirm: I = Anfang, O = Ende",
+            "es": "Corte de vídeo en el registro: I = inicio, O = fin"
+          },
+          "text": {
+            "hu": "A Vég után felugró ablakban címkéket és a csapat játékosait pipálhatod ki, a szakasz széleit pedig húzással igazíthatod. A klipek az idősáv alatt és az új Klipek fülön látszanak, rájuk kattintva szerkeszthetők. A statisztikába nem számítanak.",
+            "en": "After End, a window opens where you tick tags and the team's players, and you can drag the clip edges to adjust them. Clips show under the time track and on the new Clips tab; click one to edit it. They never count in the stats.",
+            "de": "Nach Ende öffnet sich ein Fenster, in dem du Tags und die Spieler der Mannschaft ankreuzt; die Clip-Ränder lassen sich per Ziehen anpassen. Clips erscheinen unter der Zeitleiste und im neuen Tab „Clips“; ein Klick öffnet sie zum Bearbeiten. In die Statistik zählen sie nicht.",
+            "es": "Tras pulsar Fin se abre una ventana donde marcas etiquetas y los jugadores del equipo, y puedes arrastrar los bordes del clip para ajustarlo. Los clips aparecen bajo la línea de tiempo y en la nueva pestaña Clips; haz clic en uno para editarlo. No cuentan en las estadísticas."
+          }
+        },
+        {
+          "title": {
+            "hu": "A meccsóra ±8 mp mostantól a Z és az U billentyű",
+            "en": "Match clock ±8 s is now on the Z and U keys",
+            "de": "Spieluhr ±8 s liegt jetzt auf den Tasten Z und U",
+            "es": "El cronómetro ±8 s ahora está en las teclas Z y U"
+          },
+          "text": {
+            "hu": "Az I és az O a vágásé lett. Ha korábban saját billentyűt állítottál be, az megmarad.",
+            "en": "I and O now belong to clip cutting. Any key you set yourself earlier stays as it was.",
+            "de": "I und O gehören jetzt zum Videoschnitt. Selbst festgelegte Tasten bleiben erhalten.",
+            "es": "I y O ahora son para cortar clips. Las teclas que hayas configurado tú se mantienen."
+          }
+        },
+        {
+          "title": {
+            "hu": "A Mérkőzések listán látszik, mely meccs számít a statisztikába",
+            "en": "The Matches list shows which matches count in the stats",
+            "de": "Die Spieleliste zeigt, welche Spiele in die Statistik zählen",
+            "es": "La lista de partidos muestra qué partidos cuentan en las estadísticas"
+          },
+          "text": {
+            "hu": "A csak vágott meccsek nem kerülnek 0–0-ként a csapatriportba. A jelvényre kattintva kézzel is ki-be kapcsolható, a klipes meccsekre pedig külön szűrhetsz.",
+            "en": "Matches you only cut clips from no longer enter the team report as 0–0 draws. Click the badge to switch it by hand, and filter for matches with clips.",
+            "de": "Spiele, aus denen du nur Clips geschnitten hast, landen nicht mehr als 0:0 im Teambericht. Ein Klick auf das Abzeichen schaltet es von Hand um, und du kannst nach Spielen mit Clips filtern.",
+            "es": "Los partidos de los que solo cortaste clips ya no entran en el informe del equipo como empates 0–0. Haz clic en la insignia para cambiarlo a mano y filtra los partidos con clips."
+          }
+        },
+        {
+          "title": {
+            "hu": "A riportok a webes videót játsszák, ha van",
+            "en": "Reports play the web video when there is one",
+            "de": "Berichte spielen das Online-Video, wenn es eines gibt",
+            "es": "Los informes reproducen el vídeo en línea si existe"
+          },
+          "text": {
+            "hu": "Az export továbbra is a helyi fájlt veszi előre. A riport-megosztás mentés után szól, ha egy meccsnek nincs online videója.",
+            "en": "Export still prefers the local file. After saving, report sharing tells you if a match has no online video.",
+            "de": "Der Export nimmt weiterhin bevorzugt die lokale Datei. Beim Teilen eines Berichts erfährst du nach dem Speichern, wenn ein Spiel kein Online-Video hat.",
+            "es": "La exportación sigue prefiriendo el archivo local. Al compartir un informe, tras guardarlo te avisa si un partido no tiene vídeo en línea."
+          }
+        },
+        {
+          "title": {
+            "hu": "A címkézés Hazai/Vendég választása meccsenként megmarad",
+            "en": "The home/away choice for tagging is remembered per match",
+            "de": "Die Heim/Gast-Auswahl beim Taggen bleibt pro Spiel erhalten",
+            "es": "La elección local/visitante al etiquetar se recuerda por partido"
+          }
+        }
+      ]
+    },
+    {
       "version": "1.57.0",
       "date": "2026-11-09",
       "items": [
