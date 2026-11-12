@@ -1,4 +1,4 @@
 {
-  "minimumVersion": "1.58.0",
-  "message": "Ez a frissítés kötelező: a csak vágott meccsek így nem kerülnek 0–0-ként a csapatriportba."
+  "minimumVersion": "1.59.0",
+  "message": "Ez a frissítés kötelező: az új Videóvágóba tett saját videófájlokat a régebbi verzió hibásan mentené."
 }
