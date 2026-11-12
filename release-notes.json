@@ -2,6 +2,54 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.61.0",
+      "date": "2026-11-12",
+      "items": [
+        {
+          "title": {
+            "hu": "Videóvágó: a szűrők egymást szűkítik",
+            "en": "Video cutting: filters narrow each other down",
+            "de": "Videoschnitt: Filter schränken sich gegenseitig ein",
+            "es": "Corte de vídeo: los filtros se acotan entre sí"
+          },
+          "text": {
+            "hu": "Csapat, meccs, címke, játékos vagy mutató kiválasztásakor a többi lista csak azt kínálja, amihez tényleg van adat. A már kijelölt, de épp üres elem elrejtve megmarad, és visszajön, ha újra van hozzá adat.",
+            "en": "When you pick a team, match, tag, player or stat, the other lists only offer what actually has data. An item you already selected but that is currently empty is hidden but kept, and it comes back once it has data again.",
+            "de": "Wählst du Team, Spiel, Tag, Spieler oder Kennzahl, bieten die anderen Listen nur an, wozu es wirklich Daten gibt. Ein bereits ausgewähltes, aber gerade leeres Element wird ausgeblendet, bleibt gemerkt und kehrt zurück, sobald es wieder Daten hat.",
+            "es": "Al elegir equipo, partido, etiqueta, jugador o estadística, las demás listas solo ofrecen lo que realmente tiene datos. Un elemento ya seleccionado pero vacío por ahora se oculta, se recuerda y vuelve en cuanto vuelve a tener datos."
+          }
+        },
+        {
+          "title": {
+            "hu": "Videóvágó: címkék főmappánként",
+            "en": "Video cutting: tags grouped by main folder",
+            "de": "Videoschnitt: Tags nach Hauptordner gruppiert",
+            "es": "Corte de vídeo: etiquetas agrupadas por carpeta principal"
+          },
+          "text": {
+            "hu": "A címke-lenyíló a főmappák szerint csoportosít, így két azonos nevű címke is megkülönböztethető. A mappa nevére kattintva az egész mappa be- vagy kipipálható.",
+            "en": "The tag dropdown groups tags by main folder, so two tags with the same name can be told apart. Click a folder name to check or uncheck the whole folder.",
+            "de": "Die Tag-Auswahl gruppiert nach Hauptordnern, sodass sich zwei gleichnamige Tags unterscheiden lassen. Ein Klick auf den Ordnernamen hakt den ganzen Ordner an oder ab.",
+            "es": "El desplegable de etiquetas agrupa por carpeta principal, así se distinguen dos etiquetas con el mismo nombre. Haz clic en el nombre de la carpeta para marcarla o desmarcarla entera."
+          }
+        },
+        {
+          "title": {
+            "hu": "Csapat-riport Klipek: csak a csapat címkéi, darabszámmal",
+            "en": "Team report Clips: only the team's tags, with counts",
+            "de": "Teambericht Clips: nur die Tags des Teams, mit Anzahl",
+            "es": "Informe de equipo, Clips: solo las etiquetas del equipo, con recuento"
+          },
+          "text": {
+            "hu": "Csak azok a címkék jelennek meg, amelyekből az időszakban van mentett pillanat, és mindegyiken látszik, hány klip tartozik hozzá.",
+            "en": "Only tags with saved moments in the period are shown, and each one shows how many clips it has.",
+            "de": "Es erscheinen nur Tags mit gespeicherten Momenten im Zeitraum, und jeder zeigt, wie viele Clips dazugehören.",
+            "es": "Solo aparecen las etiquetas con momentos guardados en el periodo, y cada una muestra cuántos clips tiene."
+          }
+        }
+      ]
+    },
+    {
       "version": "1.60.0",
       "date": "2026-11-12",
       "items": [
