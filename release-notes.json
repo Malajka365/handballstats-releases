@@ -2,6 +2,26 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.60.0",
+      "date": "2026-11-12",
+      "items": [
+        {
+          "title": {
+            "hu": "Vágott klip játékossal is menthető",
+            "en": "Cut clips can be saved with just a player",
+            "de": "Geschnittene Clips lassen sich auch nur mit einem Spieler speichern",
+            "es": "Los clips cortados se pueden guardar solo con un jugador"
+          },
+          "text": {
+            "hu": "Mentéshez elég egy címke vagy egy játékos, nem kell mindkettő.",
+            "en": "To save, one tag or one player is enough; you don't need both.",
+            "de": "Zum Speichern genügt ein Tag oder ein Spieler, beides ist nicht nötig.",
+            "es": "Para guardar basta con una etiqueta o un jugador; no hacen falta los dos."
+          }
+        }
+      ]
+    },
+    {
       "version": "1.59.0",
       "date": "2026-11-12",
       "items": [
