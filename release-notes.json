@@ -2,6 +2,84 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.59.0",
+      "date": "2026-11-12",
+      "items": [
+        {
+          "title": {
+            "hu": "Új Videóvágó menü: válogatások klipekből, egy képernyőn",
+            "en": "New Video cutting menu: compilations from clips, on one screen",
+            "de": "Neues Menü Videoschnitt: Zusammenstellungen aus Clips auf einem Bildschirm",
+            "es": "Nuevo menú Corte de vídeo: compilaciones de clips en una sola pantalla"
+          },
+          "text": {
+            "hu": "Statisztikából, címkékből, vágott klipekből és saját videófájlokból állíthatsz össze válogatást. A sorrendet húzással vagy a ▲/▼ nyilakkal változtathatod.",
+            "en": "Build a compilation from stats, tags, cut clips and your own video files. Change the order by dragging or with the ▲/▼ arrows.",
+            "de": "Stelle Zusammenstellungen aus Statistiken, Tags, geschnittenen Clips und eigenen Videodateien zusammen. Die Reihenfolge änderst du per Ziehen oder mit den Pfeilen ▲/▼.",
+            "es": "Crea una compilación a partir de estadísticas, etiquetas, clips cortados y tus propios archivos de vídeo. Cambia el orden arrastrando o con las flechas ▲/▼."
+          }
+        },
+        {
+          "title": {
+            "hu": "A válogatásból egyetlen videó exportálható",
+            "en": "Export a compilation as a single video",
+            "de": "Eine Zusammenstellung als ein einziges Video exportieren",
+            "es": "Exporta una compilación como un único vídeo"
+          },
+          "text": {
+            "hu": "Címkártyákkal és feliratokkal, online és a gépen lévő meccsvideóból is.",
+            "en": "With title cards and captions, from online match videos and from videos on your computer.",
+            "de": "Mit Titelkarten und Beschriftungen, aus Online-Spielvideos und aus Videos auf deinem Computer.",
+            "es": "Con tarjetas de título y rótulos, desde vídeos de partidos en línea y desde vídeos de tu equipo."
+          }
+        },
+        {
+          "title": {
+            "hu": "Saját videófájl is bekerülhet a válogatásba",
+            "en": "Your own video files can go into a compilation",
+            "de": "Auch eigene Videodateien können in eine Zusammenstellung",
+            "es": "También puedes añadir tus propios archivos de vídeo a una compilación"
+          },
+          "text": {
+            "hu": "Például egy edzésfelvétel, egészben. Egy kis ikon mutatja, melyik videó van a gépeden, melyik online, és melyik hiányzik.",
+            "en": "A practice recording, for example, as a whole. A small icon shows which video is on your computer, which is online and which is missing.",
+            "de": "Zum Beispiel eine Trainingsaufnahme, als Ganzes. Ein kleines Symbol zeigt, welches Video auf deinem Computer liegt, welches online ist und welches fehlt.",
+            "es": "Por ejemplo, una grabación de entrenamiento, completa. Un pequeño icono indica qué vídeo está en tu equipo, cuál está en línea y cuál falta."
+          }
+        },
+        {
+          "title": {
+            "hu": "Rajz és kimerevítés a vágott klipeken is",
+            "en": "Drawing and freeze frames on cut clips too",
+            "de": "Zeichnen und Standbilder jetzt auch auf geschnittenen Clips",
+            "es": "Dibujos y congelados también en los clips cortados"
+          }
+        },
+        {
+          "title": {
+            "hu": "Válogatás megosztása HTML-fájlként",
+            "en": "Share a compilation as an HTML file",
+            "de": "Zusammenstellung als HTML-Datei teilen",
+            "es": "Comparte una compilación como archivo HTML"
+          },
+          "text": {
+            "hu": "Az online videós elemeket bárki lejátszhatja a böngészőjében. A Kezdőlapon a legutóbbi válogatásaid is megjelennek.",
+            "en": "Anyone can play the online-video items in their browser. Your recent compilations also show on the home page.",
+            "de": "Die Elemente mit Online-Video kann jeder im Browser abspielen. Deine letzten Zusammenstellungen erscheinen auch auf der Startseite.",
+            "es": "Cualquiera puede reproducir en su navegador los elementos con vídeo en línea. Tus compilaciones recientes también aparecen en la página de inicio."
+          }
+        },
+        {
+          "title": {
+            "hu": "Alacsonyabb oldalfejlécek: több hely a tartalomnak",
+            "en": "Slimmer page headers: more room for content",
+            "de": "Schmalere Seitenköpfe: mehr Platz für den Inhalt",
+            "es": "Encabezados de página más bajos: más espacio para el contenido"
+          }
+        }
+      ]
+    },
+    {
       "version": "1.58.0",
       "date": "2026-11-11",
       "items": [
