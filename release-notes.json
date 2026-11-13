@@ -2,6 +2,26 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.62.0",
+      "date": "2026-11-13",
+      "items": [
+        {
+          "title": {
+            "hu": "Videóvágó: a klipek címkénként is sorba rakhatók",
+            "en": "Video editor: clips can now be ordered by tag",
+            "de": "Videoschnitt: Clips lassen sich jetzt nach Tag ordnen",
+            "es": "Editor de vídeo: ahora puedes ordenar los clips por etiqueta"
+          },
+          "text": {
+            "hu": "A Címkék fülön, ha legalább két címkét bejelölsz, választhatsz: Meccsenként vagy Címkénként. Címkénként a címkék abban a sorrendben jönnek, ahogy bejelölted őket, és a „+ Mind” is így teszi őket a válogatásba.",
+            "en": "On the Tags tab, once you check at least two tags, you can choose By match or By tag. By tag lists the tags in the order you checked them, and “+ All” adds them to the compilation in that order too.",
+            "de": "Auf dem Tab „Tags“ kannst du ab zwei angehakten Tags zwischen „Nach Spiel“ und „Nach Tag“ wählen. „Nach Tag“ zeigt die Tags in der Reihenfolge, in der du sie angehakt hast, und „+ Alle“ fügt sie auch so zur Zusammenstellung hinzu.",
+            "es": "En la pestaña Etiquetas, al marcar al menos dos etiquetas puedes elegir Por partido o Por etiqueta. Por etiqueta muestra las etiquetas en el orden en que las marcaste, y «+ Todos» las añade a la recopilación en ese mismo orden."
+          }
+        }
+      ]
+    },
+    {
       "version": "1.61.0",
       "date": "2026-11-12",
       "items": [
