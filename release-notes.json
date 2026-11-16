@@ -2,6 +2,26 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.62.2",
+      "date": "2026-11-16",
+      "items": [
+        {
+          "title": {
+            "hu": "Javítva: lassú netnél az online videóból vágott klip megakadt",
+            "en": "Fixed: clips cut from an online video froze on slow connections",
+            "de": "Behoben: Aus Online-Videos geschnittene Clips blieben bei langsamer Verbindung hängen",
+            "es": "Corregido: los clips cortados de un vídeo online se congelaban con conexiones lentas"
+          },
+          "text": {
+            "hu": "Lassú internetkapcsolatnál az online meccsvideóból exportált klip néha egy ponton megakadt vagy egy másik jelenetre ugrott, mindig ugyanott. Mostantól a klip végig a megfelelő jelenetet mutatja, és ha a letöltés közben hiba történik, az app magától újravágja.",
+            "en": "On a slow internet connection, a clip exported from an online match video could freeze at some point or jump to another scene, always at the same spot. The clip now shows the right scene all the way through, and if something goes wrong while downloading, the app cuts it again automatically.",
+            "de": "Bei langsamer Internetverbindung konnte ein aus einem Online-Spielvideo exportierter Clip an einer Stelle hängen bleiben oder zu einer anderen Szene springen – immer an derselben Stelle. Jetzt zeigt der Clip durchgehend die richtige Szene, und tritt beim Herunterladen ein Fehler auf, schneidet die App ihn automatisch neu.",
+            "es": "Con una conexión lenta, un clip exportado de un vídeo de partido online podía congelarse en algún punto o saltar a otra escena, siempre en el mismo sitio. Ahora el clip muestra la escena correcta de principio a fin y, si algo falla durante la descarga, la app lo vuelve a cortar automáticamente."
+          }
+        }
+      ]
+    },
+    {
       "version": "1.62.1",
       "date": "2026-11-16",
       "items": [
