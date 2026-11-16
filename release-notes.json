@@ -2,6 +2,26 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.62.1",
+      "date": "2026-11-16",
+      "items": [
+        {
+          "title": {
+            "hu": "Javítva: az online videóból exportált klip néha korábbról indult",
+            "en": "Fixed: clips exported from an online video sometimes started too early",
+            "de": "Behoben: Aus Online-Videos exportierte Clips begannen manchmal zu früh",
+            "es": "Corregido: los clips exportados de un vídeo online a veces empezaban antes de tiempo"
+          },
+          "text": {
+            "hu": "Online meccsvideóból vágva a klip néha 10–16 másodperccel korábbról kezdődött, mint ahogy az appban látszott. Mostantól pontosan a kiválasztott pillanattól vág, és ha a videó letöltése közben megszakad a kapcsolat, a klipet magától újravágja.",
+            "en": "When cutting from an online match video, a clip could start 10–16 seconds earlier than it appeared in the app. It now cuts exactly from the chosen moment, and if the connection drops while the video downloads, the clip is cut again automatically.",
+            "de": "Beim Schneiden aus einem Online-Spielvideo konnte ein Clip 10–16 Sekunden früher beginnen, als er in der App zu sehen war. Jetzt wird genau ab dem gewählten Moment geschnitten, und bricht die Verbindung beim Herunterladen des Videos ab, wird der Clip automatisch neu geschnitten.",
+            "es": "Al cortar desde un vídeo de partido online, un clip podía empezar 10–16 segundos antes de lo que se veía en la app. Ahora se corta exactamente desde el momento elegido y, si la conexión se interrumpe mientras se descarga el vídeo, el clip se vuelve a cortar automáticamente."
+          }
+        }
+      ]
+    },
+    {
       "version": "1.62.0",
       "date": "2026-11-13",
       "items": [
