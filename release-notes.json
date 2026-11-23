@@ -2,6 +2,54 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.62.3",
+      "date": "2026-11-23",
+      "items": [
+        {
+          "title": {
+            "hu": "Javítva: a gól és a kapott gól mindig ugyanazt az állást mutatja",
+            "en": "Fixed: a goal and the matching goal conceded always show the same score",
+            "de": "Behoben: Tor und zugehöriges Gegentor zeigen immer denselben Spielstand",
+            "es": "Corregido: el gol y el gol encajado correspondiente muestran siempre el mismo marcador"
+          },
+          "text": {
+            "hu": "Eddig az ugyanarról a gólról rögzített kapott gól néha a gól előtti állást mutatta (pl. 16-13 a 16-14 helyett) az eseménylistában, a klip-feliratban és a riportban.",
+            "en": "Until now, the goal conceded recorded for the same goal sometimes showed the score before the goal (e.g. 16-13 instead of 16-14) in the event list, clip captions and reports.",
+            "de": "Bisher zeigte das zum selben Tor erfasste Gegentor manchmal den Spielstand vor dem Tor (z. B. 16-13 statt 16-14) – in der Ereignisliste, in Clip-Beschriftungen und im Bericht.",
+            "es": "Hasta ahora, el gol encajado registrado para el mismo gol a veces mostraba el marcador anterior al gol (p. ej. 16-13 en lugar de 16-14) en la lista de eventos, los rótulos de los clips y el informe."
+          }
+        },
+        {
+          "title": {
+            "hu": "Javítva: a választott félidő megmarad kilépés után",
+            "en": "Fixed: the selected half is kept after leaving the match",
+            "de": "Behoben: Die gewählte Halbzeit bleibt nach dem Verlassen erhalten",
+            "es": "Corregido: la parte seleccionada se conserva al salir del partido"
+          },
+          "text": {
+            "hu": "Ha a 2. félidőben kilépsz, visszalépéskor is ott folytatod, nem ugrik vissza az 1. félidőre.",
+            "en": "If you leave during the 2nd half, you continue there when you come back instead of jumping back to the 1st half.",
+            "de": "Wenn du in der 2. Halbzeit aussteigst, machst du beim Zurückkehren dort weiter, statt zur 1. Halbzeit zurückzuspringen.",
+            "es": "Si sales durante la 2.ª parte, al volver continúas ahí en lugar de saltar de nuevo a la 1.ª parte."
+          }
+        },
+        {
+          "title": {
+            "hu": "Javítva: a félidő-felosztás nem vágja ketté az egy pillanatban rögzített eseményeket",
+            "en": "Fixed: splitting halves no longer separates events recorded at the same moment",
+            "de": "Behoben: Die Halbzeit-Aufteilung trennt gleichzeitig erfasste Ereignisse nicht mehr",
+            "es": "Corregido: dividir las partes ya no separa eventos registrados en el mismo momento"
+          },
+          "text": {
+            "hu": "A gól és a kapus kapott gólja mindig ugyanabba a félidőbe kerül, és a listában csak egy félidő-elválasztó látszik.",
+            "en": "A goal and the goalkeeper's goal conceded always land in the same half, and the list shows only one half separator.",
+            "de": "Tor und Gegentor des Torhüters landen immer in derselben Halbzeit, und die Liste zeigt nur einen Halbzeit-Trenner.",
+            "es": "El gol y el gol encajado del portero quedan siempre en la misma parte, y la lista muestra un solo separador de partes."
+          }
+        }
+      ]
+    },
+    {
       "version": "1.62.2",
       "date": "2026-11-16",
       "items": [
