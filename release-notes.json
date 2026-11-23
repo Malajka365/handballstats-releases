@@ -2,6 +2,34 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.63.0",
+      "date": "2026-11-23",
+      "items": [
+        {
+          "title": {
+            "hu": "Videóvágó: a Vágott fülön is rendezheted a listát meccsenként vagy címkénként",
+            "en": "Video editor: the Cut tab can now be ordered by match or by tag too",
+            "de": "Videoschnitt: Auch der Tab „Geschnitten“ lässt sich nach Spiel oder nach Tag ordnen",
+            "es": "Editor de vídeo: la pestaña Cortados también se puede ordenar por partido o por etiqueta"
+          },
+          "text": {
+            "hu": "Legalább két bejelölt címkénél jelenik meg. Ha egy klipen több bejelölt címke is van, egyszer szerepel, az elsőként bejelölt címkénél.",
+            "en": "It appears when at least two tags are checked. A clip with several checked tags is listed once, under the tag you checked first.",
+            "de": "Erscheint, sobald mindestens zwei Tags angehakt sind. Ein Clip mit mehreren angehakten Tags steht nur einmal da, beim zuerst angehakten Tag.",
+            "es": "Aparece cuando hay al menos dos etiquetas marcadas. Un clip con varias etiquetas marcadas aparece una sola vez, en la etiqueta que marcaste primero."
+          }
+        },
+        {
+          "title": {
+            "hu": "Videóvágó: a lista gombjai keskeny ablakban sem csúsznak ki",
+            "en": "Video editor: the list buttons no longer slide out of view in a narrow window",
+            "de": "Videoschnitt: Die Listen-Schaltflächen rutschen im schmalen Fenster nicht mehr heraus",
+            "es": "Editor de vídeo: los botones de la lista ya no se salen en una ventana estrecha"
+          }
+        }
+      ]
+    },
+    {
       "version": "1.62.3",
       "date": "2026-11-23",
       "items": [
